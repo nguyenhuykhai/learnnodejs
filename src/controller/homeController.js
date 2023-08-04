@@ -46,4 +46,4 @@ let postUpdateUser = async (req, res) => {
 
 module.exports = {
   getHomepage, getDetailPage, createNewUser, deleteUser, getEditPage, postUpdateUser
-};
+}; 
