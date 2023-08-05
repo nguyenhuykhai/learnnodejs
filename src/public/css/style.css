@@ -62,3 +62,7 @@ body {
 .upload-file-container label {
     display: block;
 }
+
+.hrtag {
+    border-top: 2px solid #eee;
+}
